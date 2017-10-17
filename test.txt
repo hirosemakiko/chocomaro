@@ -1,3 +1,7 @@
 hogehoge
 makimaki
+<<<<<<< HEAD
 masterブランチ
+=======
+Makiブランチ
+>>>>>>> makimaki
