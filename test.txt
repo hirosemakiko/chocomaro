@@ -5,3 +5,5 @@ masterブランチ
 =======
 Makiブランチ
 >>>>>>> makimaki
+
+その2
